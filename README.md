@@ -33,4 +33,4 @@ Custom implementation of memory allocation functions:
 Each project can be compiled using GCC:
 ```bash
 gcc -o program filename.c
-``
+
